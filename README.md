@@ -1,1 +1,1 @@
-# changeMyColor
+# changeMyColor - JS Project
