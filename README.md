@@ -1,1 +1,1 @@
-# Mini Projects JS - 2. Color Me Bad
+# Color Me Bad - Mini Projects JS 
